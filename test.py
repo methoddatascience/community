@@ -6,3 +6,5 @@ amazon = []
 for x in range(1, 100):
     break
     #do something cool
+beau = "Beau"
+glasses = "Dennis"
